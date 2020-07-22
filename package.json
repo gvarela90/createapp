@@ -9,7 +9,7 @@
     "start": "node src/index.js"
   },
   "bin": {
-    "createsulvoapp": "./src/index.js"
+    "createapp": "./src/index.js"
   },
   "keywords": [],
   "author": "",
