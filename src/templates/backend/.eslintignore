@@ -1,0 +1,6 @@
+!.eslintrc.js
+package-lock.json
+package.json
+coverage
+dist
+*-encrypted.js

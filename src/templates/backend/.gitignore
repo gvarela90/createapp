@@ -1,0 +1,12 @@
+!mongocryptd.tgz
+mongocryptd.pid
+dist
+node_modules
+coverage
+!/eslintrc.personal.js
+*.git-crypt.key
+.history
+config/development/credentials.js
+config/development/secrets.js
+*kms.js
+.vscode
